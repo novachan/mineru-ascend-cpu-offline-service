@@ -1,0 +1,37 @@
+# Local build output and downloaded archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Local test inputs and outputs
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+tmp/
+output/
+outputs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+
+# macOS / editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local publishing checklist; do not commit
+PUBLISHING.md
