@@ -22,8 +22,8 @@
 请将真实地址替换下面的占位符：
 
 ```text
-百度网盘地址：<BAIDU_PAN_URL>
-提取码：<BAIDU_PAN_CODE>
+链接: https://pan.baidu.com/s/1UzDSaVAz8DBO-vnvPoaNbw?pwd=u84a 
+提取码: u84a 
 文件名：mineru-cpu-3.4.5-image.tar.gz
 SHA-256：2535f8553f5e408cec4808ae6e20ac2603bf52fa2011d68f063426de8df7a189
 ```
@@ -118,5 +118,3 @@ deploy/
 ## 许可证和第三方依赖
 
 发布前请补充本仓库许可证，并确认 MinerU、模型权重、PyTorch、ModelScope 及其他依赖的再分发许可。不要把生产地址、Token、真实业务文件或内部配置提交到仓库。
-
-公开提交前请先阅读 [PUBLISHING.md](./PUBLISHING.md)，避免提交记录暴露个人姓名或工具尾注。
